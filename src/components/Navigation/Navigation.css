@@ -1,0 +1,52 @@
+.Logo {
+  width: 238px;
+  height: 70px;
+}
+
+nav .bg-light {
+  background: white;
+  padding: 10px 20px !important;
+}
+
+.navbar-expand-lg .navbar-nav .nav-link {
+  font-family: LetteraTextLL;
+  padding-right: 1rem !important;
+  padding-left: 2rem !important;
+  letter-spacing: 0px !important;
+  font-weight: 500 !important;
+  font-size: 20px;
+  color: rgb(127, 127, 127);
+}
+
+.login {
+  font-family: LetteraTextLL;
+  font-weight: 700;
+  letter-spacing: 0px;
+  background-color: #fff;
+  border: 2px solid #4643ee;
+  border-color: rgba(70, 67, 238);
+  color: rgba(70, 67, 238);
+  width: 7.5rem;
+  height: 2.5rem;
+  overflow: visible;
+  border-radius: 0.625rem;
+  text-align: center;
+  margin-right: 2px;
+  cursor: pointer;
+}
+
+.signup {
+  font-family: LetteraTextLL;
+  font-weight: 700;
+  letter-spacing: 1px;
+  background-color: #4643ee;
+  border: none;
+  color: #fff;
+  border-radius: 0.625rem;
+  width: 7.5rem;
+  height: 2.5rem;
+  margin-left: 1.25rem;
+  outline: 0 !important;
+  cursor: pointer;
+  overflow: visible;
+}

@@ -1,0 +1,276 @@
+.leftBox {
+  float: left;
+  border: none;
+  border-radius: 0.625rem;
+  width: 30%;
+  height: 1000px;
+  margin: -137px 20px;
+  box-sizing: border-box;
+}
+
+.midBox {
+  float: left;
+  width: 30%;
+  height: 1000px;
+  margin: -137px 32px;
+  box-sizing: border-box;
+}
+
+.rightBox {
+  float: right;
+  width: 30%;
+  height: 1000px;
+  margin: -137px 20px;
+  box-sizing: border-box;
+}
+
+.inleftBox {
+  height: 900px;
+  background-color: rgb(234, 255, 224);
+}
+
+.inleftBox img {
+  width: 371px;
+  height: 237px;
+  margin: -50px 38px;
+}
+
+.inleftBox p {
+  margin: 60px -16px -44px 176px;
+}
+
+#metal {
+  font-family: LetteraTextLL;
+  font-weight: bold;
+  font-size: 1.125rem;
+  color: #373737;
+}
+
+#sup1 {
+  color: #b2b2b2;
+}
+
+#perc {
+  color: #4643ee;
+  letter-spacing: 0;
+  line-height: 1.25;
+  font-size: 50px;
+  margin: 2px -2px -4px -32px;
+  font-weight: bold;
+}
+
+#cash {
+  background-color: #00a86b;
+  border-radius: 0.3125rem;
+  color: white;
+  font-weight: bold;
+  padding: 9px 6px 9px 9px;
+}
+
+.barProg {
+  background-color: white;
+  margin: -6px -7px -1px 1px;
+  height: 602px;
+}
+
+.barProg img {
+  height: 20px;
+  width: 20px;
+  position: relative;
+  top: 36px;
+  left: 10px;
+  display: block;
+  margin-top: -10px;
+}
+
+.barProg .img1 {
+  position: relative;
+  top: 80px;
+}
+.barProg .img2 {
+  position: relative;
+  top: 75px;
+}
+.barProg .img3 {
+  position: relative;
+  top: 60px;
+}
+.barProg .img4 {
+  position: relative;
+  top: 28px;
+}
+.barProg .img5 {
+  position: relative;
+  top: 19px;
+}
+
+.progress-bar {
+  background-color: #00db8c !important;
+}
+
+.progress {
+  margin: 110px 50px;
+  border-radius: 500px !important;
+  position: relative;
+  top: -69px;
+}
+
+#id223 {
+  color: #00db8c;
+}
+
+#p223 {
+  position: relative;
+  left: -107px;
+  top: 36px;
+}
+
+#p277 {
+  position: relative;
+  left: 110px;
+  top: -2px;
+}
+
+.btn-primary {
+  background-color: #4643ee !important;
+  border-radius: 0.625rem !important;
+  height: 60px;
+  width: 300px;
+  color: rgb(255, 255, 255);
+  margin: -280px 83px 9px 68px !important;
+}
+
+hr {
+  position: relative;
+  top: -130px;
+}
+
+#include {
+  font-family: LetteraTextLL;
+  color: #b2b2b2;
+  letter-spacing: 3px !important;
+  position: relative;
+  top: -155px;
+  left: -125px;
+}
+
+#pMain {
+  position: relative;
+  top: -17px;
+  left: -95px;
+  font-weight: bold;
+}
+
+#idFund {
+  color: #767676;
+  font-weight: 200;
+  line-height: 19px;
+  font-size: 17px;
+  position: relative;
+  left: -130px;
+}
+
+#greenPart {
+  background-color: rgb(181, 250, 227);
+  height: 175px;
+  border-bottom-left-radius: 0.625rem;
+  border-bottom-right-radius: 0.625rem;
+}
+
+#greenPart img {
+  height: 20px;
+  width: 20px;
+  position: relative;
+  top: 28px;
+  left: 10px;
+}
+
+#member {
+  position: relative;
+  top: -48px;
+  left: -101px;
+  font-weight: bold;
+  text-decoration: line-through;
+}
+
+#free {
+  color: #068758;
+  font-weight: bold;
+  font-size: 30px;
+  position: relative;
+  top: -56px;
+  left: -99px;
+}
+
+#savings {
+  color: #068758;
+  position: relative;
+  top: -82px;
+  left: -98px;
+  font-weight: bold;
+  font-size: 20px;
+}
+
+#greyPart {
+  background-color: rgb(247, 247, 252);
+  height: 175px;
+  border-bottom-left-radius: 0.625rem;
+  border-bottom-right-radius: 0.625rem;
+  position: relative;
+  top: -60px !important;
+}
+
+#Fee {
+  position: relative;
+  color: rgb(178, 178, 178);
+  top: 53px;
+  left: -71px;
+  font-weight: bold;
+  font-size: 25px;
+  text-decoration: line-through;
+}
+
+#Soon {
+  color: rgb(178, 178, 178);
+  font-weight: bolder;
+  font-size: 20px;
+  position: relative;
+  top: 50px;
+  left: -37px;
+}
+
+#supMid {
+  color: #b2b2b2;
+}
+
+#percMid {
+  color: black;
+  letter-spacing: 0;
+  line-height: 1.25;
+  font-size: 50px;
+  margin: 2px -2px -4px -32px;
+  font-weight: bold;
+}
+
+#cashMid {
+  background-color: rgb(178, 178, 178);
+  border-radius: 0.3125rem;
+  color: white;
+  font-weight: bold;
+  padding: 9px 6px 9px 9px;
+}
+
+#p277Mid {
+  position: relative;
+  left: 110px;
+  top: -2px;
+}
+
+#id223Mid {
+  color: rgb(178, 178, 178);
+}
+
+.butMid {
+  background-color: rgb(178, 178, 178) !important;
+  border: none !important;
+}

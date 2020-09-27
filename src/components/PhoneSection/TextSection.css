@@ -1,0 +1,80 @@
+.para1 {
+  font-family: Impact, Charcoal, sans-serif;
+  font-weight: 500;
+  font-size: 4rem;
+  color: rgba(3, 2, 0, var(--text-opacity));
+  letter-spacing: 1px;
+  line-height: 49px;
+  margin: 12px 3px 5px -4px;
+}
+
+.paraTop {
+  width: 69%;
+  margin: 79px 86px;
+}
+
+.para2 {
+  font-family: LetteraTextLL;
+  letter-spacing: 0px;
+  font-weight: 400;
+  font-size: 1.5rem;
+  color: rgba(118, 118, 118);
+  line-height: 1.5;
+  margin: -15px 87px;
+}
+.paraBottom {
+  width: 29%;
+  margin-left: 2%;
+}
+
+.FormMain {
+  margin: 30px 95px;
+}
+.btnSub {
+  height: 42px !important;
+  margin-left: -124px !important;
+  background: #4643ee !important;
+  border-radius: 0.625rem !important;
+  color: rgb(255, 255, 255) !important;
+  border: none !important;
+  position: relative;
+  top: 142px;
+  left: 2px;
+  width: 100px;
+}
+
+.formSub {
+  height: 70px !important;
+  width: 475px !important;
+  border-radius: 20px !important;
+}
+
+.fa-envelope {
+  margin: 2px 2px 2px 2px;
+}
+
+img {
+  height: 34px;
+  width: 47px;
+  display: inline;
+  margin-left: 111px;
+}
+
+.pText {
+  margin: -27px 178px;
+  height: 100px;
+}
+
+.App1 {
+  width: 161px;
+  height: 73px;
+}
+
+.App2 {
+  margin: 15px;
+  width: 161px;
+  height: 73px;
+}
+
+.butJoin {
+}

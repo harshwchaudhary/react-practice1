@@ -1,0 +1,94 @@
+.MidSection {
+  margin: 270px 550px;
+}
+
+.MidSection p {
+  font-family: LetteraTextLL;
+  font-weight: 500px;
+  font-size: 1.125rem;
+  line-height: 1.44;
+  letter-spacing: 0.25rem;
+}
+
+/* .images {
+  display: table;
+} */
+
+.sequioa {
+  display: inline-block;
+  width: 12.5rem;
+  height: 4.5rem;
+  margin: -9px -50px -63px -231px;
+}
+
+.polychain {
+  display: inline-block;
+  width: 10rem;
+  height: 4.5rem;
+  margin: -106px 80px -155px 160px;
+}
+
+.consensys {
+  display: inline-block;
+  width: 16rem;
+  height: 3.5rem;
+  margin: -15px 350px 240px;
+}
+
+.perc {
+  width: 500px;
+  height: 500px;
+  margin: -304px 69px 48px 359px;
+}
+
+.p1 {
+  margin: -52px -40px 34px -384px;
+  color: #4643ee;
+  font-size: x-large !important;
+  font-weight: bold;
+  letter-spacing: 0 !important;
+}
+
+.p2 {
+  font-family: LetteraTextLL;
+  font-weight: 500;
+  letter-spacing: 0 !important;
+  font-size: xx-large !important;
+  line-height: 35px !important;
+  font-weight: bold;
+  margin: -21px -16px 7px -384px;
+}
+
+.p3 {
+  color: rgb(118, 118, 118);
+  font-family: LetteraTextLL;
+  font-weight: 400;
+  line-height: 1.77;
+  font-size: 25px !important;
+  letter-spacing: 0 !important;
+  margin: 8px -1px -84px -384px;
+}
+
+.p11 {
+  color: black !important;
+  text-align: center;
+  margin: -50px -90px 30px !important;
+  font-size: 3rem !important;
+  font-weight: bold !important;
+  overflow: hidden;
+  display: inline-block;
+  white-space: nowrap;
+  letter-spacing: 0px !important;
+}
+
+.p22 {
+  font-family: LetteraTextLL;
+  color: #767676 !important;
+  line-height: 1.5 !important;
+  font-weight: 400 !important;
+  font-size: 1.5rem !important;
+  text-align: center;
+  margin: -39px 50px 59px -55px !important;
+  letter-spacing: 0px !important;
+  white-space: nowrap;
+}
