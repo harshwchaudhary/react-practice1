@@ -1,0 +1,35 @@
+{
+  "files": {
+    "main.css": "/react-practice1/static/css/main.9c803625.chunk.css",
+    "main.js": "/react-practice1/static/js/main.271b8932.chunk.js",
+    "main.js.map": "/react-practice1/static/js/main.271b8932.chunk.js.map",
+    "runtime-main.js": "/react-practice1/static/js/runtime-main.a342dc79.js",
+    "runtime-main.js.map": "/react-practice1/static/js/runtime-main.a342dc79.js.map",
+    "static/css/2.d9ad5f5c.chunk.css": "/react-practice1/static/css/2.d9ad5f5c.chunk.css",
+    "static/js/2.224c2c8b.chunk.js": "/react-practice1/static/js/2.224c2c8b.chunk.js",
+    "static/js/2.224c2c8b.chunk.js.map": "/react-practice1/static/js/2.224c2c8b.chunk.js.map",
+    "index.html": "/react-practice1/index.html",
+    "precache-manifest.52a9bd393e251665fb75dd5d92040bc7.js": "/react-practice1/precache-manifest.52a9bd393e251665fb75dd5d92040bc7.js",
+    "service-worker.js": "/react-practice1/service-worker.js",
+    "static/css/2.d9ad5f5c.chunk.css.map": "/react-practice1/static/css/2.d9ad5f5c.chunk.css.map",
+    "static/css/main.9c803625.chunk.css.map": "/react-practice1/static/css/main.9c803625.chunk.css.map",
+    "static/js/2.224c2c8b.chunk.js.LICENSE.txt": "/react-practice1/static/js/2.224c2c8b.chunk.js.LICENSE.txt",
+    "static/media/BlackCard.png": "/react-practice1/static/media/BlackCard.29f7a3cf.png",
+    "static/media/BlueCard.png": "/react-practice1/static/media/BlueCard.261f0e36.png",
+    "static/media/PinkCard.png": "/react-practice1/static/media/PinkCard.803c4360.png",
+    "static/media/Tick.png": "/react-practice1/static/media/Tick.eda8c9a5.png",
+    "static/media/consensys.png": "/react-practice1/static/media/consensys.11dca229.png",
+    "static/media/dollar.png": "/react-practice1/static/media/dollar.58e36cd3.png",
+    "static/media/onju.png": "/react-practice1/static/media/onju.872ebce0.png",
+    "static/media/onjuPhone.png": "/react-practice1/static/media/onjuPhone.3f56c629.png",
+    "static/media/perc.svg": "/react-practice1/static/media/perc.c051d9d5.svg",
+    "static/media/polychain.png": "/react-practice1/static/media/polychain.89dd2a43.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.a342dc79.js",
+    "static/css/2.d9ad5f5c.chunk.css",
+    "static/js/2.224c2c8b.chunk.js",
+    "static/css/main.9c803625.chunk.css",
+    "static/js/main.271b8932.chunk.js"
+  ]
+}
